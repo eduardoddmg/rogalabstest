@@ -1,0 +1,56 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container
+{
+    width: 100%;
+    padding: 2vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card
+{
+    border: 1px solid black;
+    padding: 6vh;
+    width: 80%;
+}
+
+.fa-solid
+{
+    color: black;
+    font-size: 15px;
+    margin-right: 4vh;
+}
+
+.email, .telefone
+{
+    display: flex;
+    align-items: center;
+}
+
+.cards 
+{
+    width: 80%;
+    padding: 2vh;
+    margin: 0 auto;
+}
+
+.cardBtn 
+{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 2vh;
+    border: none;
+    border-radius: 6px;
+    margin: 2vh;
+}
