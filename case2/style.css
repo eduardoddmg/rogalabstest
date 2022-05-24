@@ -21,6 +21,8 @@
     border: 1px solid black;
     padding: 6vh;
     width: 80%;
+    margin: 2vh 0;
+    border-radius: 4px;
 }
 
 .fa-solid
