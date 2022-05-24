@@ -1,6 +1,6 @@
 # rogalabstest
 * 2 cases desenvolvidos com a finalidade de ingressar no time de desenvovimento da RogaLabs
-* <a href="https://eduardoddmg.github.io/rogalabstest/" target="_blank">Clique aqui para acessar o deploy</a>
+* <a href="https://eduardoddmg.github.io/rogalabstest/case2" target="_blank">Clique aqui para acessar o deploy</a>
 ## case 1
 * Javascript puro
 ## case 2
